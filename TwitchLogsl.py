@@ -1,3 +1,6 @@
+### Module used for getting data from Twitch: https://github.com/mark-rez/Twitch-Chat-Reader?tab=readme-ov-file
+
+
 from twitchchatreader import TwitchChatReader
 from twitchchatreaderevents import CommentEvent, ConnectEvent
 import os
